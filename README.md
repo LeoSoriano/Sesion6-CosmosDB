@@ -61,9 +61,13 @@ no aparece nada por que no le hemos agregado nada.
 ![Save Quary](Imagenes/saveQuery.PNG)
 
 17.- Pondremos el comando **SELECT*FROM c WHERE c.id="1"**, despues le daremos a que se guarde el Query por lo que nos cobrara.
+
 ![Comando Quary](Imagenes/comandoquary.PNG)
+
 18.- Una ves que se guarde, le daremos en **Execute Query** y podremos ver lo que pusimos en el item 1.
+
 ![Visualizacion Quary](Imagenes/vizualizacionquery.PNG)
+
 19.- Y esto es **COSMOS DB**.
 
 -----------------------------------------------------------------------------------------------------------------------------------
